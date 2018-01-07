@@ -19,7 +19,8 @@ PRODUCT_COPY_FILES += \
     vendor/google/shamrock/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/google/shamrock/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/google/shamrock/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/google/shamrock/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/google/shamrock/proprietary/bin/ipacm-diag:system/bin/ipacm-diag \
+	vendor/google/shamrock/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/google/shamrock/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/google/shamrock/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/google/shamrock/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
