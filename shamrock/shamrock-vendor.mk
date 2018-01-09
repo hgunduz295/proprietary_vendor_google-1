@@ -114,9 +114,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/shamrock/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/google/shamrock/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/google/shamrock/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/google/shamrock/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
-    vendor/google/shamrock/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/google/shamrock/proprietary/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat:system/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat \
+    vendor/google/shamrock/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/vendor/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
+    vendor/google/shamrock/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
+    vendor/google/shamrock/proprietary/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat:system/vendor/firmware/wlan/prima/WCNSS_wlan_dictionary.dat \
     vendor/google/shamrock/proprietary/etc/pp_calib_data_goworld_1080p_video_mode_dsi_panel.xml:system/etc/pp_calib_data_goworld_1080p_video_mode_dsi_panel.xml \
     vendor/google/shamrock/proprietary/lib/hw/camera.msm8952.so:system/lib/hw/camera.msm8952.so \
     vendor/google/shamrock/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
